@@ -1,0 +1,8 @@
+C:\Users\D_Sanchez\source\repos\MyFirstAPI\Database.MyFirstAPI\bin\Debug\netcoreapp3.1\Database.MyFirstAPI.deps.json
+C:\Users\D_Sanchez\source\repos\MyFirstAPI\Database.MyFirstAPI\bin\Debug\netcoreapp3.1\Database.MyFirstAPI.dll
+C:\Users\D_Sanchez\source\repos\MyFirstAPI\Database.MyFirstAPI\obj\Debug\netcoreapp3.1\Database.MyFirstAPI.csprojAssemblyReference.cache
+C:\Users\D_Sanchez\source\repos\MyFirstAPI\Database.MyFirstAPI\obj\Debug\netcoreapp3.1\Database.MyFirstAPI.AssemblyInfoInputs.cache
+C:\Users\D_Sanchez\source\repos\MyFirstAPI\Database.MyFirstAPI\obj\Debug\netcoreapp3.1\Database.MyFirstAPI.AssemblyInfo.cs
+C:\Users\D_Sanchez\source\repos\MyFirstAPI\Database.MyFirstAPI\bin\Debug\netcoreapp3.1\Database.MyFirstAPI.runtimeconfig.json
+C:\Users\D_Sanchez\source\repos\MyFirstAPI\Database.MyFirstAPI\bin\Debug\netcoreapp3.1\Database.MyFirstAPI.runtimeconfig.dev.json
+C:\Users\D_Sanchez\source\repos\MyFirstAPI\Database.MyFirstAPI\obj\Debug\netcoreapp3.1\Database.MyFirstAPI.genruntimeconfig.cache
